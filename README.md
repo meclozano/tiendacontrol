@@ -1,4 +1,5 @@
 # TiendaControl (prototipo funcional)
+Link: https://tiendacontrol-elvira.streamlit.app/
 
 Sistema web de gestión de inventarios y ventas para tiendas de barrio de Melgar, Tolima.
 Proyecto de software · Corporación Universitaria Iberoamericana · Actividad 4.
